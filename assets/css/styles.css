@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Roboto');
+
+body{
+    font-family: 'roboto';
+   background-color:whitesmoke;
+
+    text-align: justify;
+    color: black;
+}
+
+.columna{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 20px;
+    color: black;
+ 
+}
+
+h3{
+    padding-top: 10px;
+    font-family: 'Arial', serif;
+    font-size: 50px;
+    color: black;
+}
+
+.columna img{
+    width: 100%;
+    height: 250px;
+}
+
+.curso_columna img{
+    width: 100%;
+    padding: 150;
+}
+
+.curso_columna{
+    margin-bottom: 25px;
+}
+
+/* nav {
+    background-color: rgb(90, 133, 95) ;
+} */
+
+.info_curso{
+    background-color: rgba(0,0,0,0.3);
+    position: absolute;
+    top: 0;
+    color: #696969;
+    width: 50%;
+    height: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#secAreas{
+    margin-bottom: 20px;
+}
