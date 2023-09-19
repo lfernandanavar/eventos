@@ -80,9 +80,11 @@ p {
 
 .dk-footer {
   padding: 75px 0 0;
-  background-color: #151414;
-  position:relative;
+
+ background-color: #151414; 
+  position:static;
   z-index: 2; }
+
   .dk-footer .contact-us {
     margin-top: 0;
     margin-bottom: 30px;
@@ -100,7 +102,7 @@ p {
 .dk-footer-box-info {
   position:unset;
   top: -65px;
-  background: #202020;
+  background: #202020; 
   padding: 40px;
   z-index: 2; 
 }

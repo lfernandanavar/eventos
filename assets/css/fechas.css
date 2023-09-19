@@ -19,7 +19,7 @@ td.fc-today {
 
 .fc-first th{
 	font-family: 'Roboto', sans-serif;
-    background:#9675ce !important;
+    background:#FFE4E1 !important;
 	color:#FFF;
 	font-size:14px !important;
 	font-weight:500 !important;
@@ -27,7 +27,7 @@ td.fc-today {
 	}
 .fc-event-inner {
 	font-family: 'Roboto', sans-serif;
-    background: #03a9f3!important;
+    background: #A0522D!important;
     color: #FFF!important;
     font-size: 12px!important;
     font-weight: 500!important;
@@ -97,11 +97,11 @@ html .fc,
 }
 	span.fc-button {
     font-family: 'Roboto', sans-serif;
-    border-color: #9675ce;
-	color: #9675ce;
+    border-color:black;
+	color: #B0C4DE;
 }
 .fc-state-down, .fc-state-active {
-    background-color: #9675ce !important;
+    background-color: #FFBEBE !important;
 	color: #FFF !important;
 }
 .fc .fc-header-space {
@@ -172,7 +172,7 @@ html .fc,
 }
 
 .fc-state-highlight > div > div.fc-day-number{
-    background-color: #ff3b30;
+    background-color: #B0C4DE;
     color: #FFFFFF;
     border-radius: 50%;
     margin: 4px;
@@ -250,8 +250,8 @@ html .fc,
 
 
 .fc-state-default {
-	border-color: #ff3b30;
-	color: #ff3b30;	
+	border-color: #B0C4DE;
+	color: #B0C4DE;	
 }
 .fc-button-month.fc-state-default, .fc-button-agendaWeek.fc-state-default, .fc-button-agendaDay.fc-state-default{
     min-width: 67px;
@@ -268,7 +268,7 @@ html .fc,
 	}
 
 .fc-state-hover {
-	color: #ff3b30;
+	color: #B0C4DE;
 	text-decoration: none;
 	background-position: 0 -15px;
 	-webkit-transition: background-position 0.1s linear;
@@ -279,7 +279,7 @@ html .fc,
 
 .fc-state-down,
 .fc-state-active {
-	background-color: #ff3b30;
+	background-color: #B0C4DE;
 	background-image: none;
 	outline: 0;
 	color: #FFFFFF;
@@ -292,7 +292,7 @@ html .fc,
 	filter: alpha(opacity=65);
 	box-shadow: none;
 	border:1px solid #FFE3E3;
-	color: #ff3b30;
+	color: #B0C4DE;
 	}
 
 	
@@ -688,7 +688,7 @@ table.fc-header{
     transition: background-color 0.2s;
 }
 .fc-week .fc-day.fc-state-highlight:hover .fc-day-number{
-    background-color:  #ff3b30;
+    background-color:  #B0C4DE;
 }
 .fc-button-today{
     border: 1px solid rgba(255,255,255,.0);
