@@ -12,15 +12,15 @@ body{
     background-color: rgb(255, 255, 255);
     padding: 20px;
     margin-top: 20px;
-    color: black;
+    color: rgb(33, 29, 29);
  
 }
 
 h3{
     padding-top: 10px;
     font-family: 'Arial', serif;
-    font-size: 50px;
-    color: black;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
 }
 
 .columna img{
@@ -35,6 +35,7 @@ h3{
 
 .curso_columna{
     margin-bottom: 25px;
+  
 }
 
 /* nav {
@@ -42,10 +43,10 @@ h3{
 } */
 
 .info_curso{
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(132, 128, 128, 0);
     position: absolute;
     top: 0;
-    color: #696969;
+    color:aliceblue;
     width: 50%;
     height: 100%;
     padding-left: 20px;
@@ -55,3 +56,12 @@ h3{
 #secAreas{
     margin-bottom: 20px;
 }
+
+.btn {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+  }
